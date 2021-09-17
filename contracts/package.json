@@ -1,0 +1,8 @@
+{
+  "name": "anpanswap-swap-alert",
+  "version": "0.1.0",
+  "description": "[![Actions Status](https://github.com/anpanswap/anpan-swap-core/workflows/CI/badge.svg)](https://github.com/anpanswap/anpan-swap-core/actions)",
+  "main": "index.js",
+  "author": "anpanswap-libs",
+  "license": "MIT"
+}
